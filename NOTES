@@ -1,0 +1,4 @@
+louie@mario:~/projects/swift/neo$ .build/debug/neo
+fatal error: Can't open /dev/mem , use sudo!: file /home/louie/projects/swift/neo/.build/checkouts/SwiftyGPIO.git-1882747508/Sources/PWM.swift, line 128
+Current stack trace:
+Illegal instruction
